@@ -1,5 +1,3 @@
-# saskatoon.md
-
 # SadServers — Saskatoon 🛠️
 
 ## Scenario
