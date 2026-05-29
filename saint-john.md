@@ -1,5 +1,3 @@
-# saint-john.md
-
 # SadServers — Saint John 🛠️
 
 ## Scenario
